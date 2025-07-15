@@ -18,7 +18,7 @@ This project demonstrates a full-scale ETL pipeline using **Databricks**, **PySp
 - Delta Lake (Time Travel, ZORDER, Schema Enforcement)
 - Git + GitHub
 
-## 📁 Folder Structure
+## Folder Structure
 project-root/
 ├── 01_bronze_ingestion.py
 ├── 02_silver_cleaning.py
